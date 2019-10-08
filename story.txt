@@ -1,1 +1,5 @@
 There once was a sponge named Bob that lived on Mars. Bob worked at the meat processing plant.
+
+Meat processing was a big industry on Mars, since it's rather hard to grow
+crops and raise animals, so the most nutrition possible must be extracted
+from any and all sources.
