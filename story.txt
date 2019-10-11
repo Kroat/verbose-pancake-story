@@ -6,3 +6,6 @@ from any and all sources.
 
 Bob took advantage of the capitalist society on Mars and worked his way up the
 chain to the position of managing partner of the plant.
+
+On one day, Bob's boss gave him a quest: double the efficiency of the plant
+or he will face unemployment. Bob was in a hard time. 
